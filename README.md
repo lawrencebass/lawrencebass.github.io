@@ -1,11 +1,13 @@
-lawrencebass.github.io
-==========================
-This is my first try at github!
+# My portfolio
 
-My Github user page is at: https://github.com/lawrencebass/
+My name is [Lawrence Bass](http://twitter.com/dancow)
 
-My Github Pages repo can be found at: https://github.com/lawrencebass/lawrencebass.github.io/
+* [I Heart NY Museums](http://iheartnymuseums.com/) - A really old interactive map showing open/free hours at local museums
 
-And, soon, you can see my customized homepage at:
+A picture of someone playing the didgeridoo
 
-http://lawrencebass.github.io/
+![alt text](http://i.imgur.com/2i35DTo.jpg)
+
+Here's video of that performance:
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/dfCd2eQfueY?list=UUw7F4bJbtGwORQwMBxlGb6w" frameborder="0" allowfullscreen></iframe>
